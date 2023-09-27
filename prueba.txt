@@ -2,5 +2,4 @@ Universidad de Panama
 centro Regional univetrsitario de Colé
 Esta es la materia de entorno de programacion
 Estamos haciendo una prueba en git
-
-
+Estoy en el laborartorio de informatica
