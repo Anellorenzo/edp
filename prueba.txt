@@ -3,3 +3,5 @@ centro Regional univetrsitario de Colé
 Esta es la materia de entorno de programacion
 On branch main
 Estamos haciendo una prueba en git
+Facultad de informatica electronica y comunicación
+
