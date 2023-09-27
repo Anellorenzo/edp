@@ -3,3 +3,4 @@ centro Regional univetrsitario de Colé
 Esta es la materia de entorno de programacion
 Facultad de informatica electronica y comunicacion
 Estamos en el laborartorio
+Laborartorio de informatica
